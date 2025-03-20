@@ -1,4 +1,4 @@
-# 📌 Lista de Exercícios - Lógica e Programação (Java) (H1)
+# 📌 Lista de Exercícios - Lógica e Programação (Java) 
 
 ### Este repositório contém uma série de exercícios de lógica de programação implementados em Java, abordando desde conceitos básicos até tópicos mais avançados, como estruturas de repetição, vetores, matrizes, métodos e orientação a objetos.
 
